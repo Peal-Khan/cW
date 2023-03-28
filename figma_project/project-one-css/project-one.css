@@ -1,0 +1,285 @@
+* {
+  font-family: monospace;
+}
+header {
+  background-color: #562eff;
+  width: 1440px;
+  height: 94px;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  text-align: left;
+}
+.ideasvg {
+  width: 41px;
+  height: 51px;
+  position: absolute;
+  left: 290px;
+  top: 28px;
+}
+.idea {
+  position: absolute;
+  left: 341px;
+  top: 40px;
+}
+.button1 {
+  border: none;
+  color: white;
+  background-color: #562eff;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 24px;
+  position: absolute;
+  left: 847px;
+  top: 40px;
+}
+.button2 {
+  border: none;
+  color: white;
+  background-color: #562eff;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 24px;
+  position: absolute;
+  left: 931px;
+  top: 40px;
+}
+.button3 {
+  border: none;
+  color: white;
+  background-color: #562eff;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 24px;
+  position: absolute;
+  left: 1015px;
+  top: 40px;
+}
+.ellipse1 {
+  border: none;
+  background-color: #562eff;
+  cursor: pointer;
+  position: absolute;
+  left: 1100px;
+  top: 28px;
+}
+main {
+  background-color: whitesmoke;
+  border-radius: 5px;
+  position: absolute;
+  width: 870px;
+  height: 679px;
+  left: 285px;
+  top: 130px;
+}
+.p1 {
+  color: #562eff;
+  font-size: 24px;
+  position: absolute;
+  left: 33px;
+  top: 15px;
+}
+.imagesize {
+  width: 56px;
+  height: 56px;
+}
+.ellipse2 {
+  position: absolute;
+  left: 30px;
+  top: 109px;
+}
+.name1 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.ellipse3 {
+  font-size: 18px;
+  position: absolute;
+  left: 314px;
+  top: 109px;
+}
+.name2 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.ellipse4 {
+  font-size: 18px;
+  position: absolute;
+  left: 618px;
+  top: 109px;
+}
+.name3 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.ellipse5 {
+  font-size: 18px;
+  position: absolute;
+  left: 30px;
+  top: 194px;
+}
+.name4 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.ellipse6 {
+  font-size: 18px;
+  position: absolute;
+  left: 314px;
+  top: 194px;
+}
+.name5 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.ellipse7 {
+  position: absolute;
+  left: 618px;
+  top: 194px;
+}
+.name6 {
+  font-size: 18px;
+  position: absolute;
+  left: 70px;
+  top: 23px;
+}
+.border {
+  border: 1px solid #d1d1d1;
+  position: absolute;
+  width: 807px;
+  height: 0px;
+  left: 30px;
+  top: 280px;
+}
+.p2 {
+  color: #562eff;
+  font-size: 24px;
+  position: absolute;
+  left: 30px;
+  top: 280px;
+}
+.imagesize2 {
+  width: 225px;
+  height: 127px;
+  border-radius: 20px;
+}
+#image2 {
+  position: absolute;
+  left: 30px;
+  top: 367px;
+}
+.art1 {
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  left: 260px;
+  top: 410px;
+}
+#image3 {
+  position: absolute;
+  left: 451px;
+  top: 367px;
+}
+.art2 {
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  left: 690px;
+  top: 410px;
+}
+#image4 {
+  position: absolute;
+  left: 30px;
+  top: 520px;
+}
+.art3 {
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  left: 260px;
+  top: 550px;
+}
+#image5 {
+  position: absolute;
+  left: 451px;
+  top: 520px;
+}
+.art4 {
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  left: 690px;
+  top: 550px;
+}
+.author {
+  color: #9f9f9f;
+  font-size: 12px;
+}
+footer {
+  background-color: whitesmoke;
+  border-radius: 5px;
+  position: absolute;
+  width: 870px;
+  height: 362px;
+  left: 285px;
+  top: 830px;
+}
+.p3 {
+  color: #562eff;
+  font-size: 24px;
+  position: absolute;
+  left: 33px;
+  top: 15px;
+}
+.last1 {
+  position: absolute;
+  left: 25px;
+  top: 80px;
+}
+.last2 {
+  position: absolute;
+  left: 304px;
+  top: 80px;
+}
+.last3 {
+  position: absolute;
+  left: 581px;
+  top: 80px;
+}
+.imagesize3 {
+  width: 266px;
+  height: 144px;
+  border-radius: 20px;
+}
+.lastp1 {
+  color: black;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+.lastp2 {
+  color: #ed6b4f;
+  font-size: 14px;
+}
+.ratingnum {
+  color: #a2a2a2;
+  font-size: 14px;
+}
+.time {
+  background-color: #fee5df;
+  color: #ed6b4f;
+  border-radius: 7px;
+  padding: 4px;
+}
